@@ -13,5 +13,6 @@
             "email": "user.dashzu@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
