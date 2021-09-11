@@ -1,0 +1,17 @@
+{
+    "name": "dashzu/faster",
+    "description": "Simple PHP lib for fun",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dashzu\\Faster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dash Zu",
+            "email": "user.dashzu@gmail.com"
+        }
+    ],
+    "require": {}
+}
